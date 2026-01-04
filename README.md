@@ -8,6 +8,18 @@ decision-making without using external AI libraries.
 
 ---
 
+## 🎥 Demo Video
+
+▶️ Watch Demo: https://1drv.ms/v/c/bec64df6439e6fa5/IQDJPzHYVbRBTINE3bIf9spsAez9_3hEZvGChC1PpGajWOA?e=6HXedV
+
+This demo showcases:
+- Raycast-based front, left, and right sensors
+- Real-time obstacle detection and avoidance
+- Dynamic steering angle adjustment
+- Smooth physics-based vehicle movement
+
+---
+
 ## 🚗 Project Overview
 
 The vehicle navigates autonomously using front, left, and right raycast sensors.
@@ -74,11 +86,6 @@ Assets/
 - Strong understanding of physics-driven gameplay
 - Improved debugging and code organization
 - Experience building autonomous systems in Unity
-
----
-
-## 📷 Screenshots / Demo
-(Add gameplay screenshots or a demo video link here)
 
 ---
 
