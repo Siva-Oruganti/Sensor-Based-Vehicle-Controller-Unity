@@ -10,7 +10,7 @@ decision-making without using external AI libraries.
 
 ## 🎥 Demo Video
 
-▶️ Watch Demo: https://1drv.ms/v/c/bec64df6439e6fa5/IQDJPzHYVbRBTINE3bIf9spsAez9_3hEZvGChC1PpGajWOA?e=6HXedV
+▶️ Watch Demo: https://drive.google.com/file/d/1UJV71ac8OYMY-JOH19wcm7amdtxIOrzS/view?usp=sharing
 
 This demo showcases:
 - Raycast-based front, left, and right sensors
