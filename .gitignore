@@ -1,0 +1,55 @@
+# =====================================================
+# Unity generated folders (DO NOT COMMIT)
+# =====================================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =====================================================
+# Unity user & machine specific settings
+# =====================================================
+UserSettings/
+
+# =====================================================
+# IDE / Editor folders
+# =====================================================
+.vs/
+.vscode/
+.idea/
+.vsconfig
+
+# =====================================================
+# Visual Studio / Rider generated files
+# =====================================================
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# =====================================================
+# Unity auto-generated assemblies
+# =====================================================
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+
+# =====================================================
+# OS generated junk files
+# =====================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================================
+# Crash & debug reports
+# =====================================================
+sysinfo.txt
